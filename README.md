@@ -1,4 +1,4 @@
-# ECE4180FinalProject
+# ECE4180 Final Project: Arcade Shooter
 This arcade shooter game is designed to entertain users with easy, medium, and hard difficulty selections. After selecting a game mode from the welcome screen, a countdown initiates before beginning the game, at which point targets begin rising from a horizontal “inactive” state to become “active” at a vertical state with shining, blue LEDs to backlight them. As your chosen difficulty increases, frequency of active targets increases and their active duration decreases. A welcome tune can be heard at the beginning of each game and game over after the full 45 seconds of gameplay, as well as target hit sounds upon successful target elimination. Each target is worth 10 points, to which your final score is incremented and compared with a system highscore.
 
 Click to watch demo video:
